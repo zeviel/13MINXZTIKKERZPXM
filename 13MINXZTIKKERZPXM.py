@@ -3,7 +3,7 @@ from concurrent.futures import ThreadPoolExecutor
 print(
 """\u001b[33m
 Script by zeviel
-Github : https://github.com/zevieli
+Github : https://github.com/zeviel
 ╋┏┓┏━━━┳━┳━┳━━┳━┳┳┓┏┳━━┳━━┳━━┳┳┳┳┳━┳━┳━━┳━┳┓┏┳━┳━┓
 ┏┛┃┃┏━┓┃┃┃┃┣┃┃┫┃┃┣┓┏╋━━┣┓┏┻┃┃┫┏┫┏┫┳┫╋┣━━┃╋┣┓┏┫┃┃┃┃
 ┗┓┃┗┛┏┛┃┃┃┃┣┃┃┫┃┃┣┛┗┫━━┫┃┃┏┃┃┫┗┫┗┫┻┫┓┫━━┫┏╋┛┗┫┃┃┃┃
